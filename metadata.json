@@ -1,0 +1,6 @@
+{
+  "name": "Chill",
+  "description": "A beautiful, premium, synchronized real-time video watch party application for couples and partners.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
